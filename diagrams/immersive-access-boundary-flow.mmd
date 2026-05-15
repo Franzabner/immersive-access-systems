@@ -1,0 +1,7 @@
+flowchart TD
+  Context["Synthetic immersive access context"] --> Portal["Mock operator portal states"]
+  Portal --> Scene["Public-safe scene boundary"]
+  Scene --> CAD["CAD-to-USD boundary review"]
+  CAD --> Access["Human-machine access review"]
+  Access --> Human["Human approval before public creation"]
+
