@@ -20,7 +20,7 @@ This repo is not a deployed portal, production dashboard, live telemetry surface
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | not created |
-| First artifact | `immersive-access/public-safe-immersive-access-pattern.md` scaffolded |
+| First artifact | `immersive-access/public-safe-immersive-access-pattern.md` completed as scaffolded synthetic artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -60,5 +60,4 @@ Profile routing and proof-stack routing are planned only. Any links from `Franza
 
 ## First Build Task
 
-Complete `immersive-access/public-safe-immersive-access-pattern.md` with synthetic immersive access context, access-state categories, CAD-to-USD boundary, dashboard and scene boundaries, validation questions, proof limits, and public/private/sealed checklist.
-
+First artifact completed as scaffolded: `immersive-access/public-safe-immersive-access-pattern.md` covers synthetic immersive access context, operator portal pattern, spatial interface pattern, CAD-to-USD / Omniverse-style boundary, dashboard and scene-publication boundary, human-machine access surface boundary, Mermaid diagram, validation questions, proof limits, and public/private/sealed checklist.
