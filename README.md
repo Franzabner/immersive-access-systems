@@ -1,12 +1,12 @@
 # Immersive Access Systems
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`immersive-access-systems` is a Phase 7 local-only scaffold for public-safe immersive access, operator portal, spatial interface, digital-twin interaction, human-machine access, CAD-to-USD, dashboard, and scene-pattern studies.
+`immersive-access-systems` is a Phase 7 public scaffold for public-safe immersive access, operator portal, spatial interface, digital-twin interaction, human-machine access, CAD-to-USD, dashboard, and scene-pattern studies.
 
 ## What This Repo Is Not
 
@@ -17,12 +17,12 @@ This repo is not a deployed portal, production dashboard, live telemetry surface
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `immersive-access/public-safe-immersive-access-pattern.md` completed as scaffolded synthetic artifact |
-| Published artifact | private/not-public |
-| Released artifact | not released |
+| Published artifact | scaffolded |
+| Released artifact | private/not-public or not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
 
@@ -44,7 +44,7 @@ CAD-to-USD / Omniverse-style notes are generic pipeline boundaries. They do not 
 
 ## Dashboard And Scene Patterns
 
-Dashboard and scene patterns use synthetic states and placeholders. They are private/not-public and not released.
+Dashboard and scene patterns use synthetic states and placeholders. They are scaffolded and not released.
 
 ## Validation Method
 
@@ -54,9 +54,9 @@ Run `scripts/validate-public-boundary.sh`, the plan-listed boundary/status `rg` 
 
 This repo contains public-safe immersive access and spatial interface studies only. It must not contain deployed portals, production dashboards, live telemetry, production USD scenes, private CAD, real facility layouts, private topology, credentials, customer assets, Foundation-private data, live access workflows, private telemetry, security-sensitive controls, sealed geometry, private measurements, or internal company product names.
 
-## Links Back After Public Creation
+## Links Back After Public Scaffold Publication
 
-Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches after public creation approval.
+Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches.
 
 ## First Build Task
 

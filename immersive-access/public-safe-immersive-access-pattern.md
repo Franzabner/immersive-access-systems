@@ -51,7 +51,7 @@ No production USD scenes, private CAD, real facility layouts, customer assets, o
 | Dashboard notes | Mock status cards and synthetic operator states | Production dashboards, live telemetry, credentials |
 | Scene notes | Synthetic scene categories and publication policy | Production USD scenes, private CAD, sealed geometry |
 | Render notes | Public-safe placeholders only | Customer assets, real facility layout, private topology |
-| Publication review | Human approval before public creation | Live access workflows, private telemetry |
+| Publication review | Human approval before routing or release | Live access workflows, private telemetry |
 
 ## Human-Machine Access Surface Boundary
 
@@ -66,7 +66,7 @@ flowchart TD
   Spatial --> Pipeline["CAD-to-USD / Omniverse-style boundary"]
   Pipeline --> Scene["Dashboard and scene-publication boundary"]
   Scene --> HMI["Human-machine access surface boundary"]
-  HMI --> Review["Human review before public creation or routing"]
+  HMI --> Review["Human review before routing or release"]
 ```
 
 ## Validation Questions
